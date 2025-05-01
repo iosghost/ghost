@@ -1,10 +1,10 @@
 Package: ContactsExtended
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Your Name <your@email.com>
-Description: وصف الحزمة هنا
-Section: Utilities
-Author: Your Name
+Maintainer: Ali
+Description: Insta araba
+Section: ادوات
+Author: Ghost
 
 
 Depends: 
@@ -16,10 +16,10 @@ SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
 Package: WASniperTool_RootLess
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Your Name <your@email.com>
-Description: وصف الحزمة هنا
-Section: Utilities
-Author: Your Name
+Maintainer: Ali
+Description: Insta araba
+Section: ادوات
+Author: Ghost
 
 
 Depends: 
@@ -31,10 +31,10 @@ SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
 Package: com.bandarhl.deviceinfo_1.2_iphoneos-arm64
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Your Name <your@email.com>
-Description: وصف الحزمة هنا
-Section: Utilities
-Author: Your Name
+Maintainer: Ali
+Description: Insta araba
+Section: ادوات
+Author: Ghost
 
 
 Depends: 
@@ -46,10 +46,10 @@ SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
 Package: com.bvn.bhtiktok_2.3_iphoneos-arm
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Your Name <your@email.com>
-Description: وصف الحزمة هنا
-Section: Utilities
-Author: Your Name
+Maintainer: Ali
+Description: Insta araba
+Section: ادوات
+Author: Ghost
 
 
 Depends: 
@@ -61,10 +61,10 @@ SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
 Package: xyz.cypwn.darkroomplus_1.0.0_iphoneos-arm
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Your Name <your@email.com>
-Description: وصف الحزمة هنا
-Section: Utilities
-Author: Your Name
+Maintainer: Ali
+Description: Insta araba
+Section: ادوات
+Author: Ghost
 
 
 Depends: 
@@ -76,10 +76,10 @@ SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
 Package: xyz.pixeljellyfish.particletrail_0.0.1-6+debug_iphoneos-arm
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Your Name <your@email.com>
-Description: وصف الحزمة هنا
-Section: Utilities
-Author: Your Name
+Maintainer: Ali
+Description: Insta araba
+Section: ادوات
+Author: Ghost
 
 
 Depends: 
