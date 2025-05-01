@@ -1,13 +1,9 @@
 Package: ContactsExtended
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Ali
-Description: Insta araba
-Section: ادوات
-Author: Ghost
-
-
-Depends: 
+Maintainer: Unknown
+Description: Description for ContactsExtended
+Section: Utilities
 Filename: ./debs/ContactsExtended.deb
 Size: 1024
 MD5sum: d41d8cd98f00b204e9800998ecf8427e
@@ -16,13 +12,9 @@ SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
 Package: WASniperTool_RootLess
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Ali
-Description: Insta araba
-Section: ادوات
-Author: Ghost
-
-
-Depends: 
+Maintainer: Unknown
+Description: Description for WASniperTool_RootLess
+Section: Utilities
 Filename: ./debs/WASniperTool_RootLess.deb
 Size: 1024
 MD5sum: d41d8cd98f00b204e9800998ecf8427e
@@ -31,13 +23,9 @@ SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
 Package: com.bandarhl.deviceinfo_1.2_iphoneos-arm64
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Ali
-Description: Insta araba
-Section: ادوات
-Author: Ghost
-
-
-Depends: 
+Maintainer: Unknown
+Description: Description for com.bandarhl.deviceinfo_1.2_iphoneos-arm64
+Section: Utilities
 Filename: ./debs/com.bandarhl.deviceinfo_1.2_iphoneos-arm64.deb
 Size: 1024
 MD5sum: d41d8cd98f00b204e9800998ecf8427e
@@ -46,13 +34,9 @@ SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
 Package: com.bvn.bhtiktok_2.3_iphoneos-arm
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Ali
-Description: Insta araba
-Section: ادوات
-Author: Ghost
-
-
-Depends: 
+Maintainer: Unknown
+Description: Description for com.bvn.bhtiktok_2.3_iphoneos-arm
+Section: Utilities
 Filename: ./debs/com.bvn.bhtiktok_2.3_iphoneos-arm.deb
 Size: 1024
 MD5sum: d41d8cd98f00b204e9800998ecf8427e
@@ -61,13 +45,9 @@ SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
 Package: xyz.cypwn.darkroomplus_1.0.0_iphoneos-arm
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Ali
-Description: Insta araba
-Section: ادوات
-Author: Ghost
-
-
-Depends: 
+Maintainer: Unknown
+Description: Description for xyz.cypwn.darkroomplus_1.0.0_iphoneos-arm
+Section: Utilities
 Filename: ./debs/xyz.cypwn.darkroomplus_1.0.0_iphoneos-arm.deb
 Size: 1024
 MD5sum: d41d8cd98f00b204e9800998ecf8427e
@@ -76,13 +56,9 @@ SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
 Package: xyz.pixeljellyfish.particletrail_0.0.1-6+debug_iphoneos-arm
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Ali
-Description: Insta araba
-Section: ادوات
-Author: Ghost
-
-
-Depends: 
+Maintainer: Unknown
+Description: Description for xyz.pixeljellyfish.particletrail_0.0.1-6+debug_iphoneos-arm
+Section: Utilities
 Filename: ./debs/xyz.pixeljellyfish.particletrail_0.0.1-6+debug_iphoneos-arm.deb
 Size: 1024
 MD5sum: d41d8cd98f00b204e9800998ecf8427e
