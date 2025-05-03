@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-link.com/logo.png" width="120" alt="Ghost Packages Logo">
+  <img src="[https://your-image-link.com/logo.png](https://k.top4top.io/p_3410kn5xy1.jpeg)" width="120" alt="Ghost Packages Logo">
 </p>
 
 <h1 align="center">
